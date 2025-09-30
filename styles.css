@@ -144,7 +144,7 @@ main{
 }
 
 #container{
- position: absolute;
+ position: static;
  margin: 0;
  padding: 0;
 }
