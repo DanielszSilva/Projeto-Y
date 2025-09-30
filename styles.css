@@ -120,7 +120,7 @@ header{
     margin: 0;
     display: flex;
     justify-content: flex-end;
-    padding: 10px 20px;
+    padding: 20px 20px;
 }
 
 .menu{
@@ -150,8 +150,8 @@ h1{
     color:#161a49;
     white-space: normal;
     position: absolute;
-    bottom: 675px;
-    left: 87px;
+    bottom: 566px;
+    left: 68px;
     right: 100px;
     width: 238px;
     
@@ -163,8 +163,8 @@ h1{
     max-width: 320px;
     margin: 0 auto 20px;
     position: absolute;
-    bottom: 480px;
-    left: 43px;
+    bottom: 392px;
+    left: 21px;
  }
 
  .button-more{
@@ -172,8 +172,8 @@ h1{
     color: #6fbf44;
     margin-bottom: 30px;
     position: absolute;
-    bottom: 400px;
-    left: 167px;
+    bottom: 339px;
+    left: 130px;
  }
 
  .image-logo{
@@ -182,8 +182,8 @@ h1{
     margin: 0 auto;
     display:block;
     position: absolute;
-    bottom: 100px;
-    right: 41px;
+    bottom: 60px;
+    right: 12px;
     
 
 }
